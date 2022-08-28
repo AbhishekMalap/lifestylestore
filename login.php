@@ -20,7 +20,7 @@ if (isset($_SESSION['email'])) {
     </head>
     <body>
         <?php
-        require 'includes/header.php';
+        require 'https://github.com/AbhishekMalap/lifestylestore/blob/main/includes/header.php';
         ?>
         <div id="banner_image" style="margin-top: -75px; text-align: left; color: black">   
         <div id="content">
